@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HabitTracker_App</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="action_delete_all_entries">Delete All Records</string>
+    <string name="editor_activity_title_new_pet">Habit Tracker</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="category_overview">Overview</string>
+    <string name="category_mode">Mode</string>
+    <string name="hint_code_language_name">Language Name</string>
+    <string name="hint_code_practice_hours">Practice Hours</string>
+    <string name="category_feeling">Feeling</string>
+    <string name="feeling_dubious">dubious</string>
+    <string name="feeling_good">good</string>
+    <string name="feeling_confident">confident</string>
+    <string name="mode_offline">offline</string>
+    <string name="mode_online">online</string>
+</resources>
